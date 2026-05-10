@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonali091023&color=1D9E75&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -35,8 +38,6 @@ DevOps and Cloud enthusiast with hands-on experience in **AWS**, **Terraform**, 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
 ### 📦 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -88,14 +89,16 @@ DevOps and Cloud enthusiast with hands-on experience in **AWS**, **Terraform**, 
 
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sonali-k-shinde-250a77388/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   <a href="mailto:sonali.shinde0910@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonali091023&color=1D9E75&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
